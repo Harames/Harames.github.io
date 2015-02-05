@@ -1,0 +1,9 @@
+/* This is css */
+body {
+	background:url("background.png");
+}
+h1 {
+	font-size: 100px;
+	text-align: center;
+	color:white;
+}
