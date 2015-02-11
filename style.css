@@ -1,9 +1,30 @@
 /* This is css */
 body {
-	background:url("background.png");
+	background:url("background.jpg");
 }
 h1 {
 	font-size: 100px;
 	text-align: center;
 	color:white;
+}
+h2 {
+	color:white;
+}
+a:link {
+    color: #B2FF99;
+}
+
+a:visited {
+    color: #FFFF85;
+}
+
+a:hover {
+    color: #FF704D;
+}
+
+a:active {
+    color: #FF704D;
+}
+h6 {
+	color: white;
 }
