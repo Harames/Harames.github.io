@@ -37,3 +37,7 @@ a:hover {
 a:active {
     color: #FF704D;
 }
+#hand {
+	width: 282px;
+	height: 299px;
+}
