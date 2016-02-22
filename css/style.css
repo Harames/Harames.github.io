@@ -1,37 +1,6 @@
 /* This is css */
 body {
-	background:url("../images/background1.jpg");
-	background-attachment: fixed;
-	background-repeat: no-repeat;
-	background-size: cover;
 	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-	font-weight: 300;
-}
-h1 {
-	font-size: 80px;
-	text-align: center;
-	color:white;
-}
-h2 {
-	color:white;
-	text-align:center;
-}
-h3 {
-	color:white;
-	text-align:center;
-}
-p {
-	color:#ADD8E6;
-	text-align:center;
-}
-h5 {
-	color: white;
-}
-h6 {
-	color: white;
-}
-div {
-	height: 100px;
 }
 a:link {
     color: #B2FF99;
