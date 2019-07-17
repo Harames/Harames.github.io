@@ -1,6 +1,7 @@
 body {
-	background-image: url('../pictures/background.JPG');
-	background-size: cover;
+	background-image: url('../pictures/background.JPG'), url('../pictures/background2.JPG');
+	background-size: cover, cover;
+	background-repeat: no-repeat, repeat-y;
 }
 .header {
 	margin: auto;
