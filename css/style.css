@@ -1,5 +1,5 @@
 body {
-	background-image: url('../pictures/background.jpg');
+	background-image: url('../pictures/background.JPG');
 	background-size: cover;
 }
 .header {
@@ -17,12 +17,11 @@ body {
 	margin-right: auto;
 	margin-top: 2.5%;
 	width: 50%;
-	background-color: #f1f1f1;
+	background-color: rgba(241,241,241,0.75);
 }
 .main-text {
 	font-size: 1.25em;
 	text-align: center;
-	
 }
 .timestamp {
 	text-align:right;
